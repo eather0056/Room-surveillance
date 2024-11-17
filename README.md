@@ -33,7 +33,7 @@ autonomous_tb3/
 ├── models/                  # Custom models for the maze and robots
 ├── urdf/                    # TurtleBot3 URDF and xacro files
 ├── world/                   # Gazebo world files for the maze environment
-├── worlds/
+├── worlds/                  # multi_maze world that we created
 ├── rviz2_multi.rviz         # RViz configuration file for multi-robot navigation
 ├── package.xml              # ROS2 package configuration
 ├── setup.cfg                # Python setup configuration

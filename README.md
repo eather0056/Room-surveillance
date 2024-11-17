@@ -98,6 +98,17 @@ ros2 run autonomous_tb3 goal
 3. Add support for advanced communication protocols between robots.
 
 ---
+## **Simulation Snapshots**
+### **World in Gazebo**
+![World](World.png)
+
+### **Generated Map**
+![Map](Map.png)
+
+### **RViz Visualization**
+![RViz](rviz.png)
+
+---
 
 ## **Acknowledgments**
 This project uses:

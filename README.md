@@ -108,6 +108,8 @@ ros2 run autonomous_tb3 goal
 ### **RViz Visualization**
 ![RViz](rviz.png)
 
+### **Real Setup**
+![Real](IMG_1861.jpg)
 ---
 
 ## **Acknowledgments**
